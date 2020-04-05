@@ -15,6 +15,10 @@
  - [北海道大学开放课程]( https://ocw.hokudai.ac.jp/)
 
 ## 中国大陆大学公开课
+ - [清华大学网络学堂](https://learn.tsinghua.edu.cn/)
+ - [北京大学公开课](http://opencourse.pku.edu.cn/)
+ - [北京大学 MOOC](http://mooc.pku.edu.cn/)
+ - [武汉大学 MOOC](http://www.mooc.whu.edu.cn/)
 
 
 ## 香港高校公开课
