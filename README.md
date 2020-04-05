@@ -1,5 +1,5 @@
-# open-education-resource
-### 开放教育资源汇总
+# 开放教育资源汇总 open-education-resource
+### 
 
 ## 美国大学公开课
  - [麻省理工學院开放课程](http://ocw.mit.edu/)
