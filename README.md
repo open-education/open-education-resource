@@ -19,6 +19,8 @@
  - [北京大学公开课](http://opencourse.pku.edu.cn/)
  - [北京大学 MOOC](http://mooc.pku.edu.cn/)
  - [武汉大学 MOOC](http://www.mooc.whu.edu.cn/)
+ - [中国大学 MOOC - 国家精品课程](http://www.icourse163.org/)
+ - [爱课程 - 高等教育出版社](http://www.icourses.cn/imooc/)
 
 
 ## 香港高校公开课
