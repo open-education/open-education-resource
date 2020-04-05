@@ -28,6 +28,15 @@
  - [台湾师范大学开放课程]( http://ocw.lib.ntnu.edu.tw/)
  - [交通大学开放课程]( http://ocw.nctu.edu.tw/)
  - [台湾开放式课程联盟]( http://www.tocwc.org.tw/)
-
+ - [台湾通识网（课程可下载）]( http://get.aca.ntu.edu.tw/)
+ - [中央大学磨课师]( http://ncux.ncu.edu.tw/)
+ - [政治大学开放式课程]( http://ctld.video.nccu.edu.tw/)
+ - [中华大学开放式课程]( https://ocw.chu.edu.tw/)
+ - [台湾科技大学开放式课程]( http://ctld.video.nccu.edu.tw/)
+ - [辅仁大学开放式课程]( http://ocw.fju.edu.tw/)
+ - [淡江大学开放式课程]( http://ocw.tku.edu.tw/)
+ - [南台科技大学开放式课程]( https://ocw.stust.edu.tw/)
+ - [中山大学开放式课程]( http://ocw.nsysu.edu.tw/)
+ - [空中大学开放式课程]( https://uu.nou.edu.tw/)
 
 
